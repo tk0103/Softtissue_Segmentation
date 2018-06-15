@@ -10,8 +10,8 @@ Softtissue_Segmentation
 # Softtissue_Segmentation(JP)
 
 # Image
-|Original #25|Proposed #25|Original #25|
-|---|---|
+|Original|EM_MAP|GraphCut|
+|---|---|---|
 |<img src="https://github.com/tk0103/Softtissue_Segmentation/blob/master/Images/original.png" alt="original" title="original image" width="200" height="200">|<img src="https://github.com/tk0103/Softtissue_Segmentation/blob/master/Images/EM_MAP.png" alt="Proposed" title="Proposed image" width="200" height="200">|<img src="https://github.com/tk0103/Softtissue_Segmentation/blob/master/Images/GraphCut.png" alt="Proposed" title="Proposed image" width="200" height="200">|
 
 # License
