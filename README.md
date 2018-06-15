@@ -12,7 +12,7 @@ Softtissue_Segmentation
 # Image
 |Original #25|Proposed #25|Original #25|
 |---|---|
-|<img src="https://github.com/tk0103/Proposed_bilateral/blob/master/Images/original%2325.png" alt="original" title="original image" width="200" height="200">|<img src="https://github.com/tk0103/Proposed_bilateral/blob/master/Images/Proposed%2325.png" alt="Proposed" title="Proposed image" width="200" height="200">|  
+|<img src="https://github.com/tk0103/Softtissue_Segmentation/blob/master/Images/original.png" alt="original" title="original image" width="200" height="200">|<img src="https://github.com/tk0103/Softtissue_Segmentation/blob/master/Images/EM_MAP.png" alt="Proposed" title="Proposed image" width="200" height="200">|<img src="https://github.com/tk0103/Softtissue_Segmentation/blob/master/Images/GraphCut.png" alt="Proposed" title="Proposed image" width="200" height="200">|
 
 # License
 MIT
